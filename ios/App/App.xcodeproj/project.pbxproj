@@ -389,7 +389,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		09331AC02EF4CD4B006FE349 /* XCRemoteSwiftPackageReference "capacitor-swift-pm" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/ionic-team/capacitor-swift-pm";
+			repositoryURL = "https://github.com/aldinjohnsson/capacitor-swift-pm";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 8.0.0;
